@@ -3,8 +3,8 @@
 # [proxy_all] 默认代理
 # [bypass_all] 默认直连-本规则使用
 # [proxy_list] 代理列表 在12行
-# [bypass_list] 直连列表
-# [outbound_block_list] 禁止访问列表 在110行
+# [bypass_list] 直连列表 在110行
+# [outbound_block_list] 禁止访问列表 在217行
 # [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
 
 #**********************************************************************
